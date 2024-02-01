@@ -4,7 +4,7 @@
 
 ## External Refrences
 - Got some ideas from <a href="https://aikoncwd.itch.io/re-entombed">Re-entombed</a> project from aikoncwd.Chech him out on itch.i
--  The inspiration for me to do this project was the maze algorythm.check out this paper for more information about the algorythm:<a href="https://arxiv.org/ftp/arxiv/papers/1811/1811.02035.pdf">Entombed</a>
+-  The inspiration for me to do this project was the maze algorithm.check out this paper for more information about the algorithm:<a href="https://arxiv.org/ftp/arxiv/papers/1811/1811.02035.pdf">Entombed</a>
 
 ## Controls
 - Arrow keys for movements.
